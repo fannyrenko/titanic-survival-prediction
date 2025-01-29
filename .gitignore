@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.o
+*.out
+*.log
+
+# Virtual Environment
+venv/
+.env
+*.venv
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Data Files
+data/
+*.csv
+*.tsv
+*.json
+*.xlsx
+*.db
+*.sqlite
+
+# Model and Output Files
+models/
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+*.sav
+
+# IDE & Editor Files
+.vscode/
+.idea/
+*.sublime-workspace
